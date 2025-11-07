@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Essay: Introduction to Web Development</title>
+    <style>
+        body {
+            font-family: Calibri, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Essay: Introduction to Web Development</h1>
+    <h2>By: Ken Luigi A. Dela Tore</h2>
+    <hr>
+
+    <p>
+        Learning about web development was a new and fun experience for me. 
+        Before this lesson, I had no idea how websites were made or what kind of codes were used to create them. 
+        I only knew how to use the internet, but now I understand that HTML is the language that gives websites their structure. 
+        It’s amazing how simple lines of code can make texts, images, and links appear on a web page. 
+        This lesson helped me appreciate how websites are made and how developers work to make them look nice and organized.
+        <br><br>
+        At first, I found HTML a bit confusing because of the different tags and symbols. 
+        But after a few tries, I started to understand how they work. 
+        The head part contains the title and page information, while the body part shows the main content. 
+        I also learned that even one small mistake, like forgetting to close a tag, can mess up the whole page. 
+        It made me more careful, patient, and focused when writing my code. 
+        Seeing the result of what I made on the browser gave me a sense of accomplishment.
+    </p>
+
+    <p>
+        I also realized that web development is not just about coding—it’s also about creativity. 
+        You can design a page the way you want it to look and add your own ideas. 
+        I learned that using HTML can be both challenging and fun because you get to control how your website appears. 
+        It’s like building something from scratch and watching it come to life on the screen. 
+        This made me appreciate how important HTML is as the foundation of web development.
+        <br><br>
+        Another thing I liked is how organized HTML is. 
+        It’s like writing a story—you have to follow a format to make it clear and easy to understand. 
+        I feel proud that I can now write a simple webpage on my own using what I’ve learned in class. 
+        This experience gave me more confidence to try other coding lessons in the future.
+    </p>
+
+    <p>
+        After learning HTML, I want to create my own personal website someday. 
+        I want it to have my picture, my hobbies, and some of my school projects. 
+        I want to make it simple but meaningful, something that represents who I am. 
+        This lesson inspired me to keep learning and to be more creative with my work. 
+        I believe that this is just the start of my journey in web development, and I’m excited to learn more about CSS and JavaScript soon. 
+    </p>
+</body>
+</html>
